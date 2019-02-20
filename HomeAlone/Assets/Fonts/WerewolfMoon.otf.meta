@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4c883aa379960c9438a3df41ab7149ce
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Werewolf Moon
+  fontNames:
+  - Werewolf Moon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1e81e041110c9b243bc3e838a48b9bbe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

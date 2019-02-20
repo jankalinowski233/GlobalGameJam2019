@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - WaveManager
+  - StopArea
+  - Centipede
+  - MonsterSoundArea
+  - WarpPoint
+  - Destination
+  - ScareFactor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - CanvasLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GraphicsLayer
+    uniqueID: 2452684683
+    locked: 0
+  - name: CanvasLayer
+    uniqueID: 3186887223
+    locked: 0
+  - name: New Layer
+    uniqueID: 384556861
+    locked: 0

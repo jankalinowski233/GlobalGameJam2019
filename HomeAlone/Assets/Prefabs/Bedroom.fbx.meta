@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: e7d87e4c66a424246be600696a32b270
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bed
+    100002: //RootNode
+    100004: Bookcase
+    100006: Boxes
+    100008: Carpet_01
+    100010: carpet_02
+    100012: Ceiling1
+    100014: Floor1
+    100016: large_draws
+    100018: Night_stand
+    100020: Posters_01
+    100022: Posters_02
+    100024: Shelves1
+    100026: Square_Shelves2
+    100028: Stars_03
+    100030: Stars_04
+    100032: Tall_Shelves1
+    100034: Tall_shelves_02
+    100036: Wall_01
+    100038: Wall_02
+    100040: Wall_03
+    100042: Wardrobe1
+    400000: Bed
+    400002: //RootNode
+    400004: Bookcase
+    400006: Boxes
+    400008: Carpet_01
+    400010: carpet_02
+    400012: Ceiling1
+    400014: Floor1
+    400016: large_draws
+    400018: Night_stand
+    400020: Posters_01
+    400022: Posters_02
+    400024: Shelves1
+    400026: Square_Shelves2
+    400028: Stars_03
+    400030: Stars_04
+    400032: Tall_Shelves1
+    400034: Tall_shelves_02
+    400036: Wall_01
+    400038: Wall_02
+    400040: Wall_03
+    400042: Wardrobe1
+    2100000: Wall
+    2100002: Window
+    2100004: Kettle
+    2100006: Large_Draws
+    2100008: Box
+    2100010: bookcase
+    2100012: Books
+    2100014: Wardrobe
+    2100016: Shelves
+    2100018: Skateboard
+    2100020: Square_Shelves
+    2100022: Lamp
+    2100024: Poster
+    2100026: Bed_Frame
+    2100028: Mattress
+    2100030: Bed_Sheets
+    2100032: Chest
+    2100034: Draws
+    2100036: Stars_01
+    2100038: Stars_02
+    2100040: Poster_01
+    2100042: Tall_Shelves
+    2100044: Carpet
+    2100046: Floor
+    2100048: Ceiling
+    2300000: Bed
+    2300002: Bookcase
+    2300004: Boxes
+    2300006: Carpet_01
+    2300008: carpet_02
+    2300010: Ceiling1
+    2300012: Floor1
+    2300014: large_draws
+    2300016: Night_stand
+    2300018: Posters_01
+    2300020: Posters_02
+    2300022: Shelves1
+    2300024: Square_Shelves2
+    2300026: Stars_03
+    2300028: Stars_04
+    2300030: Tall_Shelves1
+    2300032: Tall_shelves_02
+    2300034: Wall_01
+    2300036: Wall_02
+    2300038: Wall_03
+    2300040: Wardrobe1
+    3300000: Bed
+    3300002: Bookcase
+    3300004: Boxes
+    3300006: Carpet_01
+    3300008: carpet_02
+    3300010: Ceiling1
+    3300012: Floor1
+    3300014: large_draws
+    3300016: Night_stand
+    3300018: Posters_01
+    3300020: Posters_02
+    3300022: Shelves1
+    3300024: Square_Shelves2
+    3300026: Stars_03
+    3300028: Stars_04
+    3300030: Tall_Shelves1
+    3300032: Tall_shelves_02
+    3300034: Wall_01
+    3300036: Wall_02
+    3300038: Wall_03
+    3300040: Wardrobe1
+    4300000: Wall_02
+    4300002: large_draws
+    4300004: Boxes
+    4300006: Bookcase
+    4300008: Wardrobe1
+    4300010: Shelves1
+    4300012: Square_Shelves2
+    4300014: Wall_01
+    4300016: Bed
+    4300018: Night_stand
+    4300020: Tall_Shelves1
+    4300022: Stars_04
+    4300024: Stars_03
+    4300026: Posters_02
+    4300028: Posters_01
+    4300030: Tall_shelves_02
+    4300032: carpet_02
+    4300034: Carpet_01
+    4300036: Wall_03
+    4300038: Floor1
+    4300040: Ceiling1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
